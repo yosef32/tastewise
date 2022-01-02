@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+}
+
+.row {
+    flex-direction: row
+}
+
+.column {
+    flex-direction: column
+}
+
+.g-8 {
+    flex-grow: 8;
+}
+
+.g-4 {
+    flex-grow: 4;
+}
+
+.g-12 {
+    flex-grow: 12;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.h-50 {
+    height: 50vh;
+}
+
+.my-1 {
+    margin-left: 5!important;
+    margin-right: 5 !important;
+}
+
+.justify-center {
+    justify-content: center;
+}
